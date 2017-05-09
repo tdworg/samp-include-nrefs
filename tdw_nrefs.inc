@@ -9,6 +9,9 @@
 | Dependencies:
 	- AMX Assembly (https://github.com/Zeex/amx_assembly)
 
+| Compatible with the JIT plugin:
+	No
+
 | License:
 	Copyright (c) 2017 Double V
 
